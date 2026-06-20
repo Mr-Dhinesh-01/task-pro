@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@company.com",
+      "password": "demo1234",
+      "role": "Frontend",
+      "city": "London"
+    },
+    {
+      "id": "u2",
+      "name": "James Carter",
+      "email": "james.carter@company.com",
+      "password": "demo1234",
+      "role": "Backend",
+      "city": "Manchester"
+    },
+    {
+      "name": "Dhinesh S",
+      "email": "dhinesh@supremetechnologies.in",
+      "password": "test@123",
+      "id": "hYK8mRfSOmA"
+    },
+    {
+      "name": "Dhinrsh S",
+      "email": "esa@gmail.com",
+      "password": "test1234",
+      "id": "4kqb0gl2ajM"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Set up React project",
+      "status": "todo",
+      "priority": "high",
+      "userId": "u1"
+    },
+    {
+      "id": "t2",
+      "title": "Build Task List component",
+      "status": "todo",
+      "priority": "high",
+      "userId": "u1"
+    },
+    {
+      "id": "t3",
+      "title": "Add form validation",
+      "status": "todo",
+      "priority": "medium",
+      "userId": "u2"
+    },
+    {
+      "id": "t4",
+      "title": "Style with CSS modules",
+      "status": "todo",
+      "priority": "low",
+      "userId": "u1"
+    }
+  ]
+}
